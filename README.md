@@ -1,7 +1,6 @@
 ## node抓取新闻开放前端接口
 
 ``` bash
-# echo "# node-news" >> README.md
 
 # git init
 # git add README.md
